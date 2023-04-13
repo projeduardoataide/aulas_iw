@@ -1,0 +1,22 @@
+p{
+    color: rgb(24, 189, 24);
+}
+
+.um{
+    color: brown;
+    border: 2px solid rgb(171, 127, 241);
+    background-color: lightcyan;
+}
+.dois{
+    color: rgb(48, 111, 226);
+    border: 2px solid rgb(172, 211, 0);
+    background-color: rgb(218, 228, 127);
+}
+.tres{
+    color: darkcyan;
+}
+#titulo{
+    color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    background-color: rgb(191, 228, 230);
+}
