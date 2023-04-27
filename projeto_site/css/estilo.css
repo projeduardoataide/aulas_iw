@@ -1,0 +1,18 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: rgb(255, 0, 0);
+}
+
+.container{
+    width: 80%;
+    background-color: peachpuff;
+    margin: auto;
+
+}
+
+footer{
+    width: 100%;
+}
